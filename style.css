@@ -77,4 +77,5 @@ header>button:active{
 }
 .list>button:hover{
     box-shadow: 0px 0px 5px black;
+    background-color: rgb(171, 26, 26);
 }
